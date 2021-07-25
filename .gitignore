@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
+<<<<<<< HEAD
+__pycache__/
+=======
 *.pyc
+>>>>>>> origin/kd_complete

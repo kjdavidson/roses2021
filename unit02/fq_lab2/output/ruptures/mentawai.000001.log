@@ -1,0 +1,20 @@
+Scenario calculated at 2021-07-10 12:47:38 GMT
+Project name: fq_lab2
+Run name: mentawai
+Run number: 000001
+Velocity model: mentawai.mod
+No. of KL modes: 72
+Hurst exponent: 0.4
+Corr. length used Lstrike: 92.57 km
+Corr. length used Ldip: 54.40 km
+Slip std. dev.: 0.900 km
+Maximum length Lmax: 259.06 km
+Maximum width Wmax: 140.00 km
+Effective length Leff: 220.20 km
+Effective width Weff: 119.00 km
+Target magnitude: Mw 8.0000
+Actual magnitude: Mw 7.9301
+Hypocenter (lon,lat,z[km]): (100.857727,-4.374691,21.97)
+Hypocenter time: 2010-10-25T14:42:12.000000Z
+Centroid (lon,lat,z[km]): (99.856408,-3.256017,19.55)
+Source time function type: dreger
